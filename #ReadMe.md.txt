@@ -17,7 +17,7 @@ This project explores global video game sales using SQL for data analysis and Ta
 
 ## 📁 Dataset
 
-**Source:** [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)
+**Source:** [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 **Columns:**
 - `Name`: Game title
