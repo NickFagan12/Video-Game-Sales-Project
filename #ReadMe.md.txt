@@ -1,4 +1,6 @@
 # 🎮 Video Game Sales Data Analysis
+Tableau Public Link: https://public.tableau.com/views/VideoGameSales_17531245474280/GlobalSalesbyGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 This project explores global video game sales using SQL for data analysis and Tableau for data visualization. It aims to uncover patterns and trends in the gaming industry from the 1980s to the 2010s, using the publicly available Video Game Sales dataset from Kaggle.
 
